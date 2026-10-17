@@ -15,8 +15,6 @@ I'm a 3rd-year Computer Engineering student with a strong passion for Bioinforma
 
 ### 🛠 Tech Stack & Tools
 
-### 🛠 Tech Stack & Tools
-
 **Languages:**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -29,11 +27,6 @@ I'm a 3rd-year Computer Engineering student with a strong passion for Bioinforma
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-**UI/UX & Design:**
-<br>
-<img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" alt="UI/UX" />
-<img src="https://img.shields.io/badge/Desktop-GUI-007ACC?style=for-the-badge" alt="Desktop GUI" />
 
 **Developer Tools:**
 <br>
