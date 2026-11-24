@@ -35,13 +35,6 @@ I'm a 3rd-year Computer Engineering student with a strong passion for Bioinforma
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sevvalAltinok16&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalAltinok16&layout=compact&theme=radial)
-
----
-
 ### 📬 How to Reach Me
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/%C5%9Fevvalnur-alt%C4%B1nok-48649533b)
 - 🐙 **GitHub:** [github.com/sevvalAltinok16](https://github.com/sevvalAltinok16)
